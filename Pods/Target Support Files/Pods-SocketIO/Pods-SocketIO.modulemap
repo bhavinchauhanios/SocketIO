@@ -1,0 +1,6 @@
+module Pods_SocketIO [system] {
+  umbrella header "Pods-SocketIO-umbrella.h"
+
+  export *
+  module * { export * }
+}
